@@ -1,0 +1,83 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.flesible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding: 6%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-padding{
+    padding-top: 80px;
+}
+.top-padding h1{
+    font-size: 50px;
+
+}
+.food-order-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    font-weight: 500;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-color: linear-gradient(rgb(98, 0, 255),rgb(171, 171, 187));
+}
+.orange-color{
+    color: orange;
+}
+.blue-color{
+    color: blue;
+}
+
+
+.bg-image{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    
+}
+.big-person{
+    width: 80%;
+}
+.text-center{
+    text-align: center;
+}
+.col-3-width{
+    width: 33.33%;
+}
+.recipies-area{
+    margin: 5%;
+}
+.recipies-item{
+    margin: 2%;
+    padding: 1%;
+    width: 40%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px gray ;
+}
+.recipies-item-image{
+    margin: 5%;
+}
+.recipies-item-image img{
+    width: 100%;
+}
+.recipies-subscribers{
+    margin: 2%;
+    padding: 1%;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 10px 10px 30px gray ;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
